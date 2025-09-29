@@ -51,5 +51,8 @@ Computational scalability: Implementation with terra::app() enables chunked, par
 #### **Summary**
 
 This workflow provides an integrated pipeline for transforming raw multi-temporal raster datasets into spatially explicit maps of cleaned trajectories, monotonic trends, and seasonal dynamics. By combining robust statistical diagnostics, non-parametric trend analysis, and decomposition of periodic components, it supports reproducible, pixel-level assessments of environmental change in Earth observation time series.
+<<<<<<< HEAD
 
 ![](images/workflow_diagram.png){width="701"}
+=======
+>>>>>>> aed1e55fbeb7870220b44c8e5c520e2b8142fc05
